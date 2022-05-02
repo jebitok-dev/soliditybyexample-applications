@@ -1,15 +1,42 @@
-# Basic Sample Hardhat Project
+# Solidity By Example: Applications
+ Following the examples on solidity-by-example.org to understand solidity building smart contract applications better.
+ 
+## Built With
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+- Solidity
+- Hardhat
 
-Try running some of the following tasks:
+<!-- ## Live Demo -->
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- Fork the repository
+- Git clone https://github.com/your-username/soliditybyexample-applications
+- git checkout -b branch name
+- git remote add upstream https://github.com/jebitok-dev/soliditybyexample-applications
+- git pull upstream master
+- git commit -m "commit message"
+- git push -u origin HEAD
+
+## Author
+
+👤 **Author**
+
+- GitHub: [@Jebitok-dev](https://github.com/Jebitok-dev)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgment
+
+ I hereby acknowledge the creators of [SolidityByExample](https://solidity-by-example.org).
+ 
