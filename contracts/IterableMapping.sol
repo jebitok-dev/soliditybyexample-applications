@@ -61,8 +61,8 @@ contract TestIterableMap {
     function testIterableMap() public {
         map.set(address(0), 0);
         map.set(address(1), 100);
-        map.set(address(2), 200);
-        map.set(address(2), 200);
+        map.set(address(2), 200); // insert
+        map.set(address(2), 200); // update
         map.set(address(3), 300);
 
         for(uint i = 0; i < map.size(); i++) {
